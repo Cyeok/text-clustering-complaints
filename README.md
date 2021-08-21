@@ -1,12 +1,13 @@
 # Text Clustering Customer Complaints with Python
 This project focus on Text Analysis and Clustering of complaint narratives that consumers sent to the Consumer Financial Protection Bureau.
 
-Models tested were : 
+Models tested : 
 - Kmeans
 - Gaussian Mixture Model(GMM)
 
-Tools :
-- Python 
+Tools : Python 
+
+Full Jupyter Notebook : https://github.com/Cyeok/text-clustering-complaints/blob/main/TextClusterCustomerComplaints.ipynb
 
 ## Problem Statement
 Complaints narratives can be a valuable source of information for Financial companies. However,due to the unstructured nature of the data, it is time consuming to manually examine vast amount of complaints narratives. Text analysis can help financial companies to find out :
