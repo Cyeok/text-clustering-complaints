@@ -59,6 +59,7 @@ Using Python, the following text pre-processing tasks were performed, using ‘n
 - Reduce dimensionality to 2 principal components 
 
 Figure 4 below summarized the entire data preparation process:
+
 ![image](https://user-images.githubusercontent.com/88966179/129741905-05455518-fc4b-4378-9a97-0d725a7ac17d.png)
 
 ## Modelling
@@ -82,9 +83,7 @@ The scatterplot shows 1 large dense cluster with some sparsely distributed outly
 After clustering with the 2 models, the scatterplots are replotted as follows:
 ![image](https://user-images.githubusercontent.com/88966179/130317291-db1c1bfa-f6bc-4118-8965-95a90b964706.png)
 
-The 'boundaries' were not very different between the models.
-
-Word clouds generated from the biggest clusters of Kmeans and GMM were compared:
+The 'boundaries' were not very different between the models. Word clouds generated from the biggest clusters of Kmeans and GMM were compared:
 
 ![image](https://user-images.githubusercontent.com/88966179/130317098-ca72ef67-b4da-45c3-837b-fb1b20638300.png)![image](https://user-images.githubusercontent.com/88966179/130317105-1964bdb9-9c52-4607-97a6-6b185ad30098.png)
 
